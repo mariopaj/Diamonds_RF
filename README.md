@@ -5,3 +5,8 @@ El precio de un diamante se expresa en quilates, una unidad de masa en la que 1 
 En este repositorio vamos a predecir con la mayor precisión posible el precio de un diamante en función de las diferentes variables que tenemos presentes, como los quilates, color, claridad ...
 
 ![diamante](https://user-images.githubusercontent.com/65020012/155881138-bf3af66f-2046-4534-bad3-449ad953c6f5.jpg)
+
+## Carpetas
+
+- Diamons_predicted: Código para la predicción
+- Prediction: CSV de la predicción
